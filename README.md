@@ -1,7 +1,7 @@
 # Insurance-Claims-Analysis-dashboard
  Power BI Dashboard – Insurance Claims & Coverage Analysis 
 
-I’m excited to share that I’ve just completed my first Power BI project, where I independently analyzed and visualized a dataset of 1,000 insurance claims. It’s a small step, but a significant one in my journey into the world of data analytics! 📈
+I’m excited to share that I’ve just completed my first Power BI project, where I independently analyzed and visualized a dataset of 1,000 insurance claims. It’s a small step, but a significant one in my journey into the world of data analytics! 
 
 What I Did
 The dataset included 40 variables grouped into:
